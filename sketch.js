@@ -11,9 +11,6 @@ function setup() {
 
   thickness=random(22,83)
 
-
-
-
   
     bullet=createSprite(50, 200, 50,5);  
     bullet.velocityX = speed;
